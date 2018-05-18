@@ -1,6 +1,6 @@
 # room_A_gazebo
 
-Università di Verona
+Università degli Studi di Verona
 
 [Corso di Robotica - Homework2]
 AA 2017/2018<br>
