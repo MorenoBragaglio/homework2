@@ -27,5 +27,8 @@ Studente: [Moreno Bragaglio]
 
 6. Nella finestra di Rviz cliccare il tasto "2D Nav Goal" e cliccare un punto della mappa per scegliere il punto di destinazione del percorso che dovrà percorrere il robot
 
+## Link Video
+https://drive.google.com/open?id=1jBqXPwdQ8pU-d1MnQGDz02Y_z97hv2FJ
+
 ## Autori
 Moreno Bragaglio
